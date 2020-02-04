@@ -1,0 +1,2 @@
+# Ignorer le répertoire datadir porésent dands postgres
+/postgres/datadir
